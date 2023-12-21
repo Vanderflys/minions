@@ -7,7 +7,8 @@ Use `/reload` after installing the datapack and it should be good to go.
 ## Features
 • Place minions that gather resources for you.<br>
 • Get experience per item when claiming.<br>
-• Share your minion loot with others ~~or lock it for yourself.~~
+• Share your minion loot with others ~~or lock it for yourself.~~<br>
+• Minions have animations for when they work.
 
 
 #### Planned for next update
