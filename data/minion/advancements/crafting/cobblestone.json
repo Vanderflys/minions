@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"requirements": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "minion:minions/cobblestone"
+			}
+		}
+	},
+	"rewards": {
+		"loot": [
+			"minion:crafting/cobblestone"
+		],
+		"function": "minion:crafting/table/cobblestone"
+	}
+}

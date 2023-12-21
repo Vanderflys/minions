@@ -1,0 +1,1 @@
+$data modify storage minion drops.name set from storage minion names[{id:$(id)}].name

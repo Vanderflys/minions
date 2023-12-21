@@ -1,0 +1,12 @@
+{
+	"pack": {
+		"description": {
+			"text": "§6Made by Vanderflys"
+		},
+		"pack_format": 18,
+		"supported_formats": {
+			"min_inclusive": 18,
+			"max_inclusive": 26
+		}
+	}
+}

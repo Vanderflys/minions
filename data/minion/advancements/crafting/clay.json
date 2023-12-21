@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"requirements": {
+			"trigger": "recipe_unlocked",
+			"conditions": {
+				"recipe": "minion:minions/clay"
+			}
+		}
+	},
+	"rewards": {
+		"loot": [
+			"minion:crafting/clay"
+		],
+		"function": "minion:crafting/table/clay"
+	}
+}
