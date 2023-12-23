@@ -26,8 +26,11 @@ To check the items that the minion has generated for you simply right-click on t
 To claim the items, shift right-click on the minion.<br>
 To remove the minion, shift left-click on the minion.<br><br>
 
+To get enchanted items, drop a stack of 64 of the same material on the ground and it will<br>
+transform into the enchanted version of that item.<br>
+
 To upgrade minions, drop 64 of the enchanted material that the minion gathers on the minion<br>
-and it will automatically upgrade after that
+and it will automatically upgrade after that.<br>
 
 For more information head over to the [wiki](https://github.com/Vanderflys/minions/wiki).
 
