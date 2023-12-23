@@ -8,13 +8,12 @@ Use `/reload` after installing the datapack and it should be good to go.
 • Place minions that gather resources for you.<br>
 • Get experience per item when claiming.<br>
 • Share your minion loot with others ~~or lock it for yourself.~~<br>
-• Minions have animations for when they work.
-
+• Minions have animations for when they work.<br>
+• Upgrade minions for faster time between the next move and more storage.<br>
+• Use more minion types.<br>
 
 #### Planned for next update
-• Upgrade minions for faster time between the next move and more storage.<br>
 • Add storage to minions using a chest.<br>
-• Use more minion types.<br>
 • Minion customization (cosmetics).
 
 
@@ -27,7 +26,10 @@ To check the items that the minion has generated for you simply right-click on t
 To claim the items, shift right-click on the minion.<br>
 To remove the minion, shift left-click on the minion.<br><br>
 
-For more information head to the wiki.
+To upgrade minions, drop 64 of the enchanted material that the minion gathers on the minion<br>
+and it will automatically upgrade after that
+
+For more information head over to the [wiki](https://github.com/Vanderflys/minions/wiki).
 
 ## Information
 • Minions in single-player do not collect items when you are offline.<br>
