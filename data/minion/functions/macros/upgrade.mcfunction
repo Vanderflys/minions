@@ -1,0 +1,1 @@
+$execute as @s[nbt={Item:{id:"minecraft:$(enchantedItems)", Count:64b}}] as @e[type=armor_stand, tag=Minion, tag=$(enchantedItems), dx=0, limit=1, sort=nearest, scores={minion.Tier=1..2}] run function minion:crafting/upgrade_sfx

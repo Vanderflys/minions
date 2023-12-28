@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"requirements": {
+			"trigger": "recipe_unlocked",
+			"conditions": {
+				"recipe": "minion:minions/jungle"
+			}
+		}
+	},
+	"rewards": {
+		"loot": [
+			"minion:crafting/jungle"
+		],
+		"function": "minion:crafting/table/jungle"
+	}
+}

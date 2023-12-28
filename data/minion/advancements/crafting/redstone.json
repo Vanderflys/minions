@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"requirements": {
+			"trigger": "recipe_unlocked",
+			"conditions": {
+				"recipe": "minion:minions/redstone"
+			}
+		}
+	},
+	"rewards": {
+		"loot": [
+			"minion:crafting/redstone"
+		],
+		"function": "minion:crafting/table/redstone"
+	}
+}

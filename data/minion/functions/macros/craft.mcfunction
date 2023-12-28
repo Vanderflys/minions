@@ -1,0 +1,3 @@
+$execute if data storage minecraft:minion harvests[{name:"$(enchantedItems)"}] run summon item ~ ~ ~ {Item:{id:"minecraft:$(enchantedItems)", Count:1, tag:{Enchantments:[{id:"minecraft:protection",lvl:1s}], HideFlags:1,display:{Lore:['{"text": "A stronger kind of $(enchantedItems)","color":"gray","italic":false}],"text":""}'],Name:'{"text":"Enchanted $(enchantedItems)", "color":"blue","italic":false}'}}}}
+
+$execute if data storage minecraft:minion harvests[{name:"$(enchantedItems)"}] run kill @s

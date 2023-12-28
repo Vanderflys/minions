@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"requirements": {
+			"trigger": "recipe_unlocked",
+			"conditions": {
+				"recipe": "minion:minions/emerald"
+			}
+		}
+	},
+	"rewards": {
+		"loot": [
+			"minion:crafting/emerald"
+		],
+		"function": "minion:crafting/table/emerald"
+	}
+}

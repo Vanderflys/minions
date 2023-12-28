@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"requirements": {
+			"trigger": "recipe_unlocked",
+			"conditions": {
+				"recipe": "minion:minions/sand"
+			}
+		}
+	},
+	"rewards": {
+		"loot": [
+			"minion:crafting/sand"
+		],
+		"function": "minion:crafting/table/sand"
+	}
+}

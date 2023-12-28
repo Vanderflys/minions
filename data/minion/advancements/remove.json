@@ -1,0 +1,24 @@
+{
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:player_hurt_entity",
+			"conditions": {
+				"player": {
+					"flags": {
+						"is_sneaking": true
+					}
+				},
+				"entity": {
+					"type": "minecraft:interaction",
+					"nbt": "{Tags:[MinionDetection]}",
+					"vehicle": {
+						"type": "minecraft:armor_stand"
+					}
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "minion:util/remove"
+	}
+}

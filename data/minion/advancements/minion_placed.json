@@ -1,0 +1,25 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:chest"
+		},
+		"title": {
+			"text": "Minions Galore",
+			"color": "gold",
+			"bold": true
+		},
+		"description": {
+			"text": "Place your first Minion",
+			"color": "gray",
+			"bold": false
+		},
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"sends_telemetry_event": true
+}

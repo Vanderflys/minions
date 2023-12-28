@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"requirements": {
+			"trigger": "recipe_unlocked",
+			"conditions": {
+				"recipe": "minion:minions/oak"
+			}
+		}
+	},
+	"rewards": {
+		"loot": [
+			"minion:crafting/oak"
+		],
+		"function": "minion:crafting/table/oak"
+	}
+}

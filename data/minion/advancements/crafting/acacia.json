@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"requirements": {
+			"trigger": "recipe_unlocked",
+			"conditions": {
+				"recipe": "minion:minions/acacia"
+			}
+		}
+	},
+	"rewards": {
+		"loot": [
+			"minion:crafting/acacia"
+		],
+		"function": "minion:crafting/table/acacia"
+	}
+}

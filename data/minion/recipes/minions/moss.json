@@ -1,0 +1,26 @@
+{
+	"type": "crafting_shaped",
+	"group": "minion",
+	"pattern": [
+		"#N#",
+		"#D#",
+		"#B#"
+	],
+	"key": {
+		"#": {
+			"item": "moss_block"
+		},
+		"N": {
+			"item": "netherite_ingot"
+		},
+		"D": {
+			"item": "diamond_shovel"
+		},
+		"B": {
+			"item": "barrel"
+		}
+	},
+	"result": {
+		"item": "knowledge_book"
+	}
+}

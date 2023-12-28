@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"requirements": {
+			"trigger": "recipe_unlocked",
+			"conditions": {
+				"recipe": "minion:minions/gravel"
+			}
+		}
+	},
+	"rewards": {
+		"loot": [
+			"minion:crafting/gravel"
+		],
+		"function": "minion:crafting/table/gravel"
+	}
+}

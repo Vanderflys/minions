@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"requirements": {
+			"trigger": "recipe_unlocked",
+			"conditions": {
+				"recipe": "minion:minions/dirt"
+			}
+		}
+	},
+	"rewards": {
+		"loot": [
+			"minion:crafting/dirt"
+		],
+		"function": "minion:crafting/table/dirt"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"type": "crafting_shaped",
+	"group": "minion",
+	"pattern": [
+		"#N#",
+		"#D#",
+		"#B#"
+	],
+	"key": {
+		"#": {
+			"item": "packed_ice"
+		},
+		"N": {
+			"item": "netherite_ingot"
+		},
+		"D": {
+			"item": "diamond_pickaxe"
+		},
+		"B": {
+			"item": "barrel"
+		}
+	},
+	"result": {
+		"item": "knowledge_book"
+	}
+}
