@@ -1,2 +1,0 @@
-execute as @s[nbt={Item:{id:"minecraft:cobblestone", Count:9b}}] as @e[type=armor_stand, tag=Minion, tag=cobblestone, dx=0, limit=1, sort=nearest] run function minion:crafting/upgrade_sfx
-execute as @s[nbt={Item:{id:"minecraft:cobblestone", Count:9b}}] if entity @e[type=armor_stand, tag=Minion, tag=cobblestone, dx=0, limit=1, sort=nearest] run kill @s
