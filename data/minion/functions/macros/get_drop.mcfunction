@@ -1,1 +1,0 @@
-$data modify storage minion HarvestType set from storage minion harvests[{id:$(id)}].name
